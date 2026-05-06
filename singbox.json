@@ -526,9 +526,10 @@
       "type": "selector",
       "outbounds": [
         "🇭🇰 机场推荐:dafei.de 香港 01",
-        "🇭🇰 机场推荐:dafei.de 香港 02",
         "🇭🇰 机场推荐:dafei.de 香港 03",
-        "🇭🇰 机场推荐:dafei.de 香港 04"
+        "🇭🇰 机场推荐:dafei.de 香港 04",
+        "🇭🇰 机场推荐:dafei.de 香港 05",
+        "🇭🇰 机场推荐:dafei.de 香港 06"
       ]
     },
     {
@@ -544,8 +545,7 @@
       "outbounds": [
         "🇯🇵 机场推荐:dafei.de 日本 01",
         "🇯🇵 机场推荐:dafei.de 日本 02",
-        "🇯🇵 机场推荐:dafei.de 日本 03",
-        "🇯🇵 机场推荐:dafei.de 日本 04"
+        "🇯🇵 机场推荐:dafei.de 日本 03"
       ]
     },
     {
@@ -559,8 +559,7 @@
         "🇸🇬 机场推荐:dafei.de 新加坡 05",
         "🇸🇬 机场推荐:dafei.de 新加坡 06",
         "🇸🇬 机场推荐:dafei.de 新加坡 07",
-        "🇸🇬 机场推荐:dafei.de 新加坡 08",
-        "🇸🇬 机场推荐:dafei.de 新加坡 09"
+        "🇸🇬 机场推荐:dafei.de 新加坡 08"
       ]
     },
     {
@@ -575,33 +574,15 @@
         "🇺🇸 机场推荐:dafei.de 美国 06",
         "🇺🇸 机场推荐:dafei.de 美国 07",
         "🇺🇸 机场推荐:dafei.de 美国 08",
-        "🇺🇸 机场推荐:dafei.de 美国 09"
+        "🇺🇸 机场推荐:dafei.de 美国 09",
+        "🇺🇸 机场推荐:dafei.de 美国 10",
+        "🇺🇸 机场推荐:dafei.de 美国 11"
       ]
     },
     {
       "tag": "all",
       "type": "selector",
       "outbounds": [
-        "🇭🇰 机场推荐:dafei.de 香港 01",
-        "🇭🇰 机场推荐:dafei.de 香港 02",
-        "🇭🇰 机场推荐:dafei.de 香港 03",
-        "🇭🇰 机场推荐:dafei.de 香港 04",
-        "🇸🇬 机场推荐:dafei.de 新加坡 01",
-        "🇸🇬 机场推荐:dafei.de 新加坡 02",
-        "🇸🇬 机场推荐:dafei.de 新加坡 03",
-        "🇸🇬 机场推荐:dafei.de 新加坡 04",
-        "🇸🇬 机场推荐:dafei.de 新加坡 05",
-        "🇸🇬 机场推荐:dafei.de 新加坡 06",
-        "🇸🇬 机场推荐:dafei.de 新加坡 07",
-        "🇸🇬 机场推荐:dafei.de 新加坡 08",
-        "🇸🇬 机场推荐:dafei.de 新加坡 09",
-        "🇩🇪 机场推荐:dafei.de 德国 01",
-        "🇩🇪 机场推荐:dafei.de 德国 02",
-        "🇩🇪 机场推荐:dafei.de 德国 03",
-        "🇯🇵 机场推荐:dafei.de 日本 01",
-        "🇯🇵 机场推荐:dafei.de 日本 02",
-        "🇯🇵 机场推荐:dafei.de 日本 03",
-        "🇯🇵 机场推荐:dafei.de 日本 04",
         "🇺🇸 机场推荐:dafei.de 美国 01",
         "🇺🇸 机场推荐:dafei.de 美国 02",
         "🇺🇸 机场推荐:dafei.de 美国 03",
@@ -611,13 +592,45 @@
         "🇺🇸 机场推荐:dafei.de 美国 07",
         "🇺🇸 机场推荐:dafei.de 美国 08",
         "🇺🇸 机场推荐:dafei.de 美国 09",
-        "🇮🇩 机场推荐:dafei.de 印尼 01",
-        "🇫🇷 机场推荐:dafei.de 法国 01",
-        "🇫🇷 机场推荐:dafei.de 法国 02",
+        "🇺🇸 机场推荐:dafei.de 美国 10",
+        "🇺🇸 机场推荐:dafei.de 美国 11",
+        "🇯🇵 机场推荐:dafei.de 日本 01",
+        "🇯🇵 机场推荐:dafei.de 日本 02",
+        "🇯🇵 机场推荐:dafei.de 日本 03",
+        "🇸🇬 机场推荐:dafei.de 新加坡 01",
+        "🇸🇬 机场推荐:dafei.de 新加坡 02",
+        "🇸🇬 机场推荐:dafei.de 新加坡 03",
+        "🇸🇬 机场推荐:dafei.de 新加坡 04",
+        "🇸🇬 机场推荐:dafei.de 新加坡 05",
+        "🇸🇬 机场推荐:dafei.de 新加坡 06",
+        "🇸🇬 机场推荐:dafei.de 新加坡 07",
+        "🇸🇬 机场推荐:dafei.de 新加坡 08",
         "🇰🇷 机场推荐:dafei.de 韩国 01",
-        "🇲🇾 机场推荐:dafei.de 马来 01",
+        "🇰🇷 机场推荐:dafei.de 韩国 02",
+        "🇮🇩 机场推荐:dafei.de 印尼 01",
+        "🇮🇩 机场推荐:dafei.de 印尼 02",
+        "🇭🇰 机场推荐:dafei.de 香港 01",
+        "🇭🇰 机场推荐:dafei.de 香港 03",
+        "🇭🇰 机场推荐:dafei.de 香港 04",
+        "🇭🇰 机场推荐:dafei.de 香港 05",
+        "🇭🇰 机场推荐:dafei.de 香港 06",
+        "🇮🇳 机场推荐:dafei.de 印度 01",
+        "🇰🇭 机场推荐:dafei.de 柬埔寨 01",
+        "🇱🇦 机场推荐:dafei.de 老挝 01",
+        "🇫🇷 机场推荐:dafei.de 法国 01",
+        "🇬🇧 机场推荐:dafei.de 英国 01",
+        "🇱🇻 机场推荐:dafei.de 拉脱维亚 01",
+        "🇱🇻 机场推荐:dafei.de 拉脱维亚 02",
+        "🇱🇻 机场推荐:dafei.de 拉脱维亚 03",
+        "🇱🇻 机场推荐:dafei.de 拉脱维亚 04",
+        "🇱🇻 机场推荐:dafei.de 拉脱维亚 05",
+        "🇩🇪 机场推荐:dafei.de 德国 01",
+        "🇩🇪 机场推荐:dafei.de 德国 02",
+        "🇳🇱 机场推荐:dafei.de 荷兰 01",
+        "🇨🇾 机场推荐:dafei.de 塞浦路斯 01",
+        "🇨🇾 机场推荐:dafei.de 塞浦路斯 02",
         "🇻🇳 机场推荐:dafei.de 越南 01",
-        "🇬🇧 机场推荐:dafei.de 英国 01"
+        "🇲🇾 机场推荐:dafei.de 马来 01"
       ]
     },
     {
@@ -625,9 +638,10 @@
       "type": "urltest",
       "outbounds": [
         "🇭🇰 机场推荐:dafei.de 香港 01",
-        "🇭🇰 机场推荐:dafei.de 香港 02",
         "🇭🇰 机场推荐:dafei.de 香港 03",
-        "🇭🇰 机场推荐:dafei.de 香港 04"
+        "🇭🇰 机场推荐:dafei.de 香港 04",
+        "🇭🇰 机场推荐:dafei.de 香港 05",
+        "🇭🇰 机场推荐:dafei.de 香港 06"
       ],
       "url": "https://www.gstatic.com/generate_204",
       "interval": "1m",
@@ -649,8 +663,7 @@
       "outbounds": [
         "🇯🇵 机场推荐:dafei.de 日本 01",
         "🇯🇵 机场推荐:dafei.de 日本 02",
-        "🇯🇵 机场推荐:dafei.de 日本 03",
-        "🇯🇵 机场推荐:dafei.de 日本 04"
+        "🇯🇵 机场推荐:dafei.de 日本 03"
       ],
       "url": "https://www.gstatic.com/generate_204",
       "interval": "1m",
@@ -667,8 +680,7 @@
         "🇸🇬 机场推荐:dafei.de 新加坡 05",
         "🇸🇬 机场推荐:dafei.de 新加坡 06",
         "🇸🇬 机场推荐:dafei.de 新加坡 07",
-        "🇸🇬 机场推荐:dafei.de 新加坡 08",
-        "🇸🇬 机场推荐:dafei.de 新加坡 09"
+        "🇸🇬 机场推荐:dafei.de 新加坡 08"
       ],
       "url": "https://www.gstatic.com/generate_204",
       "interval": "1m",
@@ -686,7 +698,9 @@
         "🇺🇸 机场推荐:dafei.de 美国 06",
         "🇺🇸 机场推荐:dafei.de 美国 07",
         "🇺🇸 机场推荐:dafei.de 美国 08",
-        "🇺🇸 机场推荐:dafei.de 美国 09"
+        "🇺🇸 机场推荐:dafei.de 美国 09",
+        "🇺🇸 机场推荐:dafei.de 美国 10",
+        "🇺🇸 机场推荐:dafei.de 美国 11"
       ],
       "url": "https://www.gstatic.com/generate_204",
       "interval": "1m",
@@ -696,26 +710,6 @@
       "tag": "all-auto",
       "type": "urltest",
       "outbounds": [
-        "🇭🇰 机场推荐:dafei.de 香港 01",
-        "🇭🇰 机场推荐:dafei.de 香港 02",
-        "🇭🇰 机场推荐:dafei.de 香港 03",
-        "🇭🇰 机场推荐:dafei.de 香港 04",
-        "🇸🇬 机场推荐:dafei.de 新加坡 01",
-        "🇸🇬 机场推荐:dafei.de 新加坡 02",
-        "🇸🇬 机场推荐:dafei.de 新加坡 03",
-        "🇸🇬 机场推荐:dafei.de 新加坡 04",
-        "🇸🇬 机场推荐:dafei.de 新加坡 05",
-        "🇸🇬 机场推荐:dafei.de 新加坡 06",
-        "🇸🇬 机场推荐:dafei.de 新加坡 07",
-        "🇸🇬 机场推荐:dafei.de 新加坡 08",
-        "🇸🇬 机场推荐:dafei.de 新加坡 09",
-        "🇩🇪 机场推荐:dafei.de 德国 01",
-        "🇩🇪 机场推荐:dafei.de 德国 02",
-        "🇩🇪 机场推荐:dafei.de 德国 03",
-        "🇯🇵 机场推荐:dafei.de 日本 01",
-        "🇯🇵 机场推荐:dafei.de 日本 02",
-        "🇯🇵 机场推荐:dafei.de 日本 03",
-        "🇯🇵 机场推荐:dafei.de 日本 04",
         "🇺🇸 机场推荐:dafei.de 美国 01",
         "🇺🇸 机场推荐:dafei.de 美国 02",
         "🇺🇸 机场推荐:dafei.de 美国 03",
@@ -725,13 +719,45 @@
         "🇺🇸 机场推荐:dafei.de 美国 07",
         "🇺🇸 机场推荐:dafei.de 美国 08",
         "🇺🇸 机场推荐:dafei.de 美国 09",
-        "🇮🇩 机场推荐:dafei.de 印尼 01",
-        "🇫🇷 机场推荐:dafei.de 法国 01",
-        "🇫🇷 机场推荐:dafei.de 法国 02",
+        "🇺🇸 机场推荐:dafei.de 美国 10",
+        "🇺🇸 机场推荐:dafei.de 美国 11",
+        "🇯🇵 机场推荐:dafei.de 日本 01",
+        "🇯🇵 机场推荐:dafei.de 日本 02",
+        "🇯🇵 机场推荐:dafei.de 日本 03",
+        "🇸🇬 机场推荐:dafei.de 新加坡 01",
+        "🇸🇬 机场推荐:dafei.de 新加坡 02",
+        "🇸🇬 机场推荐:dafei.de 新加坡 03",
+        "🇸🇬 机场推荐:dafei.de 新加坡 04",
+        "🇸🇬 机场推荐:dafei.de 新加坡 05",
+        "🇸🇬 机场推荐:dafei.de 新加坡 06",
+        "🇸🇬 机场推荐:dafei.de 新加坡 07",
+        "🇸🇬 机场推荐:dafei.de 新加坡 08",
         "🇰🇷 机场推荐:dafei.de 韩国 01",
-        "🇲🇾 机场推荐:dafei.de 马来 01",
+        "🇰🇷 机场推荐:dafei.de 韩国 02",
+        "🇮🇩 机场推荐:dafei.de 印尼 01",
+        "🇮🇩 机场推荐:dafei.de 印尼 02",
+        "🇭🇰 机场推荐:dafei.de 香港 01",
+        "🇭🇰 机场推荐:dafei.de 香港 03",
+        "🇭🇰 机场推荐:dafei.de 香港 04",
+        "🇭🇰 机场推荐:dafei.de 香港 05",
+        "🇭🇰 机场推荐:dafei.de 香港 06",
+        "🇮🇳 机场推荐:dafei.de 印度 01",
+        "🇰🇭 机场推荐:dafei.de 柬埔寨 01",
+        "🇱🇦 机场推荐:dafei.de 老挝 01",
+        "🇫🇷 机场推荐:dafei.de 法国 01",
+        "🇬🇧 机场推荐:dafei.de 英国 01",
+        "🇱🇻 机场推荐:dafei.de 拉脱维亚 01",
+        "🇱🇻 机场推荐:dafei.de 拉脱维亚 02",
+        "🇱🇻 机场推荐:dafei.de 拉脱维亚 03",
+        "🇱🇻 机场推荐:dafei.de 拉脱维亚 04",
+        "🇱🇻 机场推荐:dafei.de 拉脱维亚 05",
+        "🇩🇪 机场推荐:dafei.de 德国 01",
+        "🇩🇪 机场推荐:dafei.de 德国 02",
+        "🇳🇱 机场推荐:dafei.de 荷兰 01",
+        "🇨🇾 机场推荐:dafei.de 塞浦路斯 01",
+        "🇨🇾 机场推荐:dafei.de 塞浦路斯 02",
         "🇻🇳 机场推荐:dafei.de 越南 01",
-        "🇬🇧 机场推荐:dafei.de 英国 01"
+        "🇲🇾 机场推荐:dafei.de 马来 01"
       ],
       "url": "https://www.gstatic.com/generate_204",
       "interval": "1m",
@@ -767,9 +793,182 @@
       "type": "direct"
     },
     {
-      "tag": "🇭🇰 机场推荐:dafei.de 香港 01",
+      "tag": "🇺🇸 机场推荐:dafei.de 美国 01",
+      "type": "vless",
+      "server": "64.186.230.63",
+      "server_port": 443,
+      "uuid": "26524cce-d514-4014-a426-365fb266a14d",
+      "tls": {
+        "enabled": true,
+        "server_name": "xfxl35a.node-edge.gfw.hidns.co",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "headers": {
+          "Host": "xfxl35a.node-edge.gfw.hidns.co"
+        },
+        "path": "/danfeng?ed=2560fp=chromefp=chrome"
+      }
+    },
+    {
+      "tag": "🇺🇸 机场推荐:dafei.de 美国 02",
+      "type": "vless",
+      "server": "65.75.220.114",
+      "server_port": 443,
+      "uuid": "26524cce-d514-4014-a426-365fb266a14d",
+      "tls": {
+        "enabled": true,
+        "server_name": "xfxl35a.node-edge.gfw.hidns.co",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "headers": {
+          "Host": "xfxl35a.node-edge.gfw.hidns.co"
+        },
+        "path": "/danfengfp=chrome"
+      }
+    },
+    {
+      "tag": "🇺🇸 机场推荐:dafei.de 美国 03",
+      "type": "vless",
+      "server": "218.152.201.153",
+      "server_port": 33338,
+      "uuid": "26524cce-d514-4014-a426-365fb266a14d",
+      "tls": {
+        "enabled": true,
+        "server_name": "iuh1.auth-proxy.chinat.indevs.in",
+        "insecure": false,
+        "alpn": [
+          "http/1.1\n"
+        ],
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "headers": {
+          "Host": "iuh1.auth-proxy.chinat.indevs.in"
+        },
+        "path": "/danfeng?ed=2560fp=firefox"
+      }
+    },
+    {
+      "tag": "🇺🇸 机场推荐:dafei.de 美国 04",
+      "type": "http",
+      "server": "7b51c6f3-temhs0-tsdg75-tlhh.u12.oshuawei.com",
+      "server_port": 443,
+      "tls": {
+        "enabled": true,
+        "server_name": "7b51c6f3-temhs0-tsdg75-tlhh.u12.oshuawei.com",
+        "insecure": false
+      },
+      "username": "bdf3e15e-c64c-11ea-82ef-f23c9164ca5d",
+      "password": "bdf3e15e-c64c-11ea-82ef-f23c9164ca5d"
+    },
+    {
+      "tag": "🇺🇸 机场推荐:dafei.de 美国 05",
+      "type": "http",
+      "server": "c1583042-tegxs0-tnkuks-wujn.isp.cdnkuaishou.com",
+      "server_port": 8443,
+      "tls": {
+        "enabled": true,
+        "server_name": "c1583042-tegxs0-tnkuks-wujn.isp.cdnkuaishou.com",
+        "insecure": false
+      },
+      "username": "51362ab6-b5e6-11ea-ad28-f23c913c8d2b",
+      "password": "51362ab6-b5e6-11ea-ad28-f23c913c8d2b"
+    },
+    {
+      "tag": "🇺🇸 机场推荐:dafei.de 美国 06",
+      "type": "http",
+      "server": "afed077f-tegxs0-tflsjv-zn8y.cu.oshuawei.com",
+      "server_port": 15229,
+      "tls": {
+        "enabled": true,
+        "server_name": "afed077f-tegxs0-tflsjv-zn8y.cu.oshuawei.com",
+        "insecure": false
+      },
+      "username": "44e76f8c-7362-11ec-bb74-f23c9164ca5d",
+      "password": "44e76f8c-7362-11ec-bb74-f23c9164ca5d"
+    },
+    {
+      "tag": "🇺🇸 机场推荐:dafei.de 美国 07",
+      "type": "http",
+      "server": "50d68393-tekn40-tq9o8d-1d3bw.sj.hyhuawei.com",
+      "server_port": 443,
+      "tls": {
+        "enabled": true,
+        "server_name": "50d68393-tekn40-tq9o8d-1d3bw.sj.hyhuawei.com",
+        "insecure": false
+      },
+      "username": "0fcf5a7a-e1b7-11ec-a352-f23c91cfbbc9",
+      "password": "0fcf5a7a-e1b7-11ec-a352-f23c91cfbbc9"
+    },
+    {
+      "tag": "🇺🇸 机场推荐:dafei.de 美国 08",
+      "type": "anytls",
+      "server": "7dcc2fdc-tegxs0-tg4a89-ach1.sj.oshuawei.com",
+      "server_port": 8443,
+      "password": "b9c9905c-1627-11ec-a0fc-f23c913c8d2b",
+      "tls": {
+        "enabled": true,
+        "server_name": "7dcc2fdc-tegxs0-tg4a89-ach1.sj.oshuawei.com",
+        "insecure": true
+      }
+    },
+    {
+      "tag": "🇺🇸 机场推荐:dafei.de 美国 09",
+      "type": "http",
+      "server": "279fd727-tegxs0-thvc3p-1o4kv.se.oshuawei.com",
+      "server_port": 443,
+      "tls": {
+        "enabled": true,
+        "server_name": "279fd727-tegxs0-thvc3p-1o4kv.se.oshuawei.com",
+        "insecure": false
+      },
+      "username": "87b31a02-172e-11ee-a11f-f23c913c8d2b",
+      "password": "87b31a02-172e-11ee-a11f-f23c913c8d2b"
+    },
+    {
+      "tag": "🇺🇸 机场推荐:dafei.de 美国 10",
+      "type": "anytls",
+      "server": "5f5f2c81-tegxs0-tvvhcz-tl32.se.hyhuawei.com",
+      "server_port": 443,
+      "password": "5c02ab88-7b9c-11ea-8fc9-f23c913c8d2b",
+      "tls": {
+        "enabled": true,
+        "server_name": "5f5f2c81-tegxs0-tvvhcz-tl32.se.hyhuawei.com",
+        "insecure": true
+      }
+    },
+    {
+      "tag": "🇺🇸 机场推荐:dafei.de 美国 11",
+      "type": "anytls",
+      "server": "f6d14d41-temhs0-tfzlyg-1kcpe.los.hyhuawei.com",
+      "server_port": 443,
+      "password": "3f514ea2-4662-11ed-a8bf-f23c91cfbbc9",
+      "tls": {
+        "enabled": true,
+        "server_name": "f6d14d41-temhs0-tfzlyg-1kcpe.los.hyhuawei.com",
+        "insecure": true
+      }
+    },
+    {
+      "tag": "🇯🇵 机场推荐:dafei.de 日本 01",
       "type": "trojan",
-      "server": "43.168.16.112",
+      "server": "108.162.198.253",
       "server_port": 443,
       "password": "8r<[9'l6hAO#8ZQi",
       "tls": {
@@ -790,20 +989,15 @@
       }
     },
     {
-      "tag": "🇭🇰 机场推荐:dafei.de 香港 02",
+      "tag": "🇯🇵 机场推荐:dafei.de 日本 02",
       "type": "vless",
-      "server": "hk4-r.link-t7.com",
-      "server_port": 10129,
-      "uuid": "EF3507AC-123A-4A39-9B4C-7D9BD69F8913",
+      "server": "154.31.117.205",
+      "server_port": 443,
+      "uuid": "ce069292-c8bf-40dd-a6b1-87818a1e64e9",
       "tls": {
         "enabled": true,
-        "server_name": "s0.awsstatic.com",
+        "server_name": "gogo.kmj.qzz.io",
         "insecure": false,
-        "reality": {
-          "enabled": true,
-          "public_key": "wOu-BMrXvk9KX23JZrlpUlF4SMjDcejm0vNECdhy5xE",
-          "short_id": "686c0ef0"
-        },
         "utls": {
           "enabled": true,
           "fingerprint": "chrome"
@@ -811,76 +1005,73 @@
       },
       "packet_encoding": "xudp",
       "transport": {
-        "type": "grpc",
-        "service_name": "movie"
-      }
-    },
-    {
-      "tag": "🇭🇰 机场推荐:dafei.de 香港 03",
-      "type": "vless",
-      "server": "hk2-r.link-t7.com",
-      "server_port": 10127,
-      "uuid": "EF3507AC-123A-4A39-9B4C-7D9BD69F8913",
-      "tls": {
-        "enabled": true,
-        "server_name": "s0.awsstatic.com",
-        "insecure": false,
-        "reality": {
-          "enabled": true,
-          "public_key": "wOu-BMrXvk9KX23JZrlpUlF4SMjDcejm0vNECdhy5xE",
-          "short_id": "686c0ef0"
+        "type": "ws",
+        "headers": {
+          "Host": "gogo.kmj.qzz.io",
+          "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36"
         },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "grpc",
-        "service_name": "update"
+        "path": "/socks5=gogo:gogo@185.184.70.120:50088"
       }
     },
     {
-      "tag": "🇭🇰 机场推荐:dafei.de 香港 04",
-      "type": "http",
-      "server": "cdae6438-tegxs0-tkp3tl-1s09x.cm4.oshuawei.com",
-      "server_port": 5228,
+      "tag": "🇯🇵 机场推荐:dafei.de 日本 03",
+      "type": "hysteria2",
+      "server": "vpn-jp-004.fastervpn.world",
+      "server_port": 443,
+      "password": "qQe1z5kU8kN6SlKnDt9Ru3Qp",
       "tls": {
         "enabled": true,
-        "server_name": "cdae6438-tegxs0-tkp3tl-1s09x.cm4.oshuawei.com",
-        "insecure": false
-      },
-      "username": "62b7824e-47dc-11ef-9f2d-f23c9164ca5d",
-      "password": "62b7824e-47dc-11ef-9f2d-f23c9164ca5d"
+        "server_name": "vpn-jp-004.fastervpn.world",
+        "insecure": true
+      }
     },
     {
       "tag": "🇸🇬 机场推荐:dafei.de 新加坡 01",
-      "type": "vless",
-      "server": "sg2-r.link-t7.com",
-      "server_port": 10037,
-      "uuid": "EF3507AC-123A-4A39-9B4C-7D9BD69F8913",
+      "type": "anytls",
+      "server": "vzfs8x.yytls.top",
+      "server_port": 27003,
+      "password": "2219a1b1-9290-4ac5-94fd-6cfc1fb25280",
       "tls": {
         "enabled": true,
-        "server_name": "s0.awsstatic.com",
+        "server_name": "vzfs8x.yytls.top",
         "insecure": false,
-        "reality": {
-          "enabled": true,
-          "public_key": "wOu-BMrXvk9KX23JZrlpUlF4SMjDcejm0vNECdhy5xE",
-          "short_id": "686c0ef0"
-        },
+        "alpn": [
+          "h2",
+          "http/1.1"
+        ],
         "utls": {
           "enabled": true,
           "fingerprint": "chrome"
         }
-      },
-      "transport": {
-        "type": "grpc",
-        "service_name": "update"
       }
     },
     {
       "tag": "🇸🇬 机场推荐:dafei.de 新加坡 02",
+      "type": "vless",
+      "server": "47.242.1.205",
+      "server_port": 30701,
+      "uuid": "ce069292-c8bf-40dd-a6b1-87818a1e64e9",
+      "tls": {
+        "enabled": true,
+        "server_name": "gogo.kmj.qzz.io",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "ws",
+        "headers": {
+          "Host": "gogo.kmj.qzz.io",
+          "User-Agent": "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.67 Safari/537.36"
+        },
+        "path": "/socks5=gogo:gogo@185.184.70.120:50088"
+      }
+    },
+    {
+      "tag": "🇸🇬 机场推荐:dafei.de 新加坡 03",
       "type": "vless",
       "server": "sg1-r.link-t7.com",
       "server_port": 10036,
@@ -905,29 +1096,71 @@
       }
     },
     {
-      "tag": "🇸🇬 机场推荐:dafei.de 新加坡 03",
+      "tag": "🇸🇬 机场推荐:dafei.de 新加坡 04",
       "type": "vless",
-      "server": "43.159.4.80",
+      "server": "183.104.118.33",
+      "server_port": 30005,
+      "uuid": "26524cce-d514-4014-a426-365fb266a14d",
+      "tls": {
+        "enabled": true,
+        "server_name": "xfxl35a.node-edge.gfw.hidns.co",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "headers": {
+          "Host": "xfxl35a.node-edge.gfw.hidns.co"
+        },
+        "path": "/danfengfp=chrome"
+      }
+    },
+    {
+      "tag": "🇸🇬 机场推荐:dafei.de 新加坡 05",
+      "type": "http",
+      "server": "6583f625-tegxs0-tv7zgh-1ijh5.sg3.oshuawei.com",
+      "server_port": 443,
+      "tls": {
+        "enabled": true,
+        "server_name": "6583f625-tegxs0-tv7zgh-1ijh5.sg3.oshuawei.com",
+        "insecure": false
+      },
+      "username": "f7d95364-607b-11ee-93af-f23c91369f2d",
+      "password": "f7d95364-607b-11ee-93af-f23c91369f2d"
+    },
+    {
+      "tag": "🇸🇬 机场推荐:dafei.de 新加坡 06",
+      "type": "shadowsocks",
+      "server": "103.36.91.32",
+      "server_port": 8388,
+      "method": "chacha20-ietf",
+      "password": "asd123456"
+    },
+    {
+      "tag": "🇸🇬 机场推荐:dafei.de 新加坡 07",
+      "type": "vless",
+      "server": "154.19.187.181",
       "server_port": 443,
       "uuid": "26524cce-d514-4014-a426-365fb266a14d",
       "tls": {
         "enabled": true,
-        "server_name": "x.2.q.9.a.v.3.m.8.c.t.y.1.k.f.z.7.b.h.6.w.b.1.j.danfeng.com.cfd",
+        "server_name": "iuh1.auth-proxy.chinat.indevs.in",
         "insecure": false,
         "alpn": [
-          "http%2F1.1"
+          "http%2F1.1%0A"
         ],
         "utls": {
           "enabled": true,
           "fingerprint": "chrome"
         }
       },
-      "packet_encoding": "xudp",
       "transport": {
         "type": "ws",
         "headers": {
-          "Host": "x.2.q.9.a.v.3.m.8.c.t.y.1.k.f.z.7.b.h.6.w.b.1.j.danfeng.com.cfd",
-          "User-Agent": "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.67 Safari/537.36"
+          "Host": "iuh1.auth-proxy.chinat.indevs.in"
         },
         "early_data_header_name": "Sec-WebSocket-Protocol",
         "max_early_data": 2560,
@@ -935,232 +1168,258 @@
       }
     },
     {
-      "tag": "🇸🇬 机场推荐:dafei.de 新加坡 04",
-      "type": "vless",
-      "server": "69.63.210.22",
-      "server_port": 443,
-      "uuid": "26524cce-d514-4014-a426-365fb266a14d",
-      "tls": {
-        "enabled": true,
-        "server_name": "xfxl35a.node-edge.gfw.hidns.co",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "headers": {
-          "Host": "xfxl35a.node-edge.gfw.hidns.co",
-          "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36"
-        },
-        "path": "/danfeng?ed=2560fp=firefox"
-      }
-    },
-    {
-      "tag": "🇸🇬 机场推荐:dafei.de 新加坡 05",
-      "type": "hysteria2",
-      "server": "vpn-sg-003.fastervpn.world",
-      "server_port": 443,
-      "password": "qQe1z5kU8kN6SlKnDt9Ru3Qp",
-      "tls": {
-        "enabled": true,
-        "server_name": "vpn-sg-003.fastervpn.world",
-        "insecure": true
-      }
-    },
-    {
-      "tag": "🇸🇬 机场推荐:dafei.de 新加坡 06",
-      "type": "vless",
-      "server": "121.158.68.235",
-      "server_port": 20000,
-      "uuid": "26524cce-d514-4014-a426-365fb266a14d",
-      "tls": {
-        "enabled": true,
-        "server_name": "xfxl35a.node-edge.gfw.hidns.co",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "headers": {
-          "Host": "xfxl35a.node-edge.gfw.hidns.co"
-        },
-        "path": "/danfeng"
-      }
-    },
-    {
-      "tag": "🇸🇬 机场推荐:dafei.de 新加坡 07",
+      "tag": "🇸🇬 机场推荐:dafei.de 新加坡 08",
       "type": "http",
-      "server": "8e55e5fb-tekn40-th2ajx-1rnrp.sg3.oshuawei.com",
+      "server": "a281a969-temhs0-tm23vf-1jk6u.sg.oshuawei.com",
       "server_port": 443,
       "tls": {
         "enabled": true,
-        "server_name": "8e55e5fb-tekn40-th2ajx-1rnrp.sg3.oshuawei.com",
+        "server_name": "a281a969-temhs0-tm23vf-1jk6u.sg.oshuawei.com",
         "insecure": false
       },
-      "username": "989aa406-ea9b-11ef-97da-f23c91cfbbc9",
-      "password": "989aa406-ea9b-11ef-97da-f23c91cfbbc9"
+      "username": "45bc25b2-1a10-11ed-91c0-f23c91cfbbc9",
+      "password": "45bc25b2-1a10-11ed-91c0-f23c91cfbbc9"
     },
     {
-      "tag": "🇸🇬 机场推荐:dafei.de 新加坡 08",
-      "type": "vless",
-      "server": "146.185.164.169",
-      "server_port": 443,
-      "uuid": "26524cce-d514-4014-a426-365fb266a14d",
+      "tag": "🇰🇷 机场推荐:dafei.de 韩国 01",
+      "type": "anytls",
+      "server": "h1rv7p.yytls.top",
+      "server_port": 27008,
+      "password": "2219a1b1-9290-4ac5-94fd-6cfc1fb25280",
       "tls": {
         "enabled": true,
-        "server_name": "ynwta9.api-edge.fgfw.qzz.io",
+        "server_name": "h1rv7p.yytls.top",
         "insecure": false,
+        "alpn": [
+          "h2",
+          "http/1.1"
+        ],
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "tag": "🇰🇷 机场推荐:dafei.de 韩国 02",
+      "type": "http",
+      "server": "a8019d22-teisg0-tpaqgu-1smhu.kr.oshuawei.com",
+      "server_port": 31433,
+      "tls": {
+        "enabled": true,
+        "server_name": "a8019d22-teisg0-tpaqgu-1smhu.kr.oshuawei.com",
+        "insecure": false
+      },
+      "username": "62f2374c-891b-11ef-a3f6-f23c9164ca5d",
+      "password": "62f2374c-891b-11ef-a3f6-f23c9164ca5d"
+    },
+    {
+      "tag": "🇮🇩 机场推荐:dafei.de 印尼 01",
+      "type": "anytls",
+      "server": "vclt62.yytls.top",
+      "server_port": 27016,
+      "password": "2219a1b1-9290-4ac5-94fd-6cfc1fb25280",
+      "tls": {
+        "enabled": true,
+        "server_name": "vclt62.yytls.top",
+        "insecure": false,
+        "alpn": [
+          "h2",
+          "http/1.1"
+        ],
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "tag": "🇮🇩 机场推荐:dafei.de 印尼 02",
+      "type": "http",
+      "server": "ede56397-teisg0-tnsc3a-1f0gu.id.oshuawei.com",
+      "server_port": 32233,
+      "tls": {
+        "enabled": true,
+        "server_name": "ede56397-teisg0-tnsc3a-1f0gu.id.oshuawei.com",
+        "insecure": false
+      },
+      "username": "3085fcf8-a69c-11ec-bd7c-f23c913c8d2b",
+      "password": "3085fcf8-a69c-11ec-bd7c-f23c913c8d2b"
+    },
+    {
+      "tag": "🇭🇰 机场推荐:dafei.de 香港 01",
+      "type": "anytls",
+      "server": "w40vud.yytls.top",
+      "server_port": 27002,
+      "password": "2219a1b1-9290-4ac5-94fd-6cfc1fb25280",
+      "tls": {
+        "enabled": true,
+        "server_name": "w40vud.yytls.top",
+        "insecure": false,
+        "alpn": [
+          "h2",
+          "http/1.1"
+        ],
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "tag": "🇭🇰 机场推荐:dafei.de 香港 03",
+      "type": "vless",
+      "server": "hk3-r.link-t7.com",
+      "server_port": 10128,
+      "uuid": "EF3507AC-123A-4A39-9B4C-7D9BD69F8913",
+      "tls": {
+        "enabled": true,
+        "server_name": "s0.awsstatic.com",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "wOu-BMrXvk9KX23JZrlpUlF4SMjDcejm0vNECdhy5xE",
+          "short_id": "686c0ef0"
+        },
         "utls": {
           "enabled": true,
           "fingerprint": "chrome"
         }
       },
       "transport": {
-        "type": "ws",
-        "headers": {
-          "Host": "ynwta9.api-edge.fgfw.qzz.io"
-        },
-        "path": "/danfeng?ed"
+        "type": "grpc",
+        "service_name": "movie"
       }
     },
     {
-      "tag": "🇸🇬 机场推荐:dafei.de 新加坡 09",
-      "type": "vless",
-      "server": "155.248.185.105",
-      "server_port": 443,
-      "uuid": "26524cce-d514-4014-a426-365fb266a14d",
-      "tls": {
-        "enabled": true,
-        "server_name": "xfxl35a.node-edge.gfw.hidns.co",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "headers": {
-          "Host": "xfxl35a.node-edge.gfw.hidns.co"
-        },
-        "path": "/danfeng"
-      }
-    },
-    {
-      "tag": "🇩🇪 机场推荐:dafei.de 德国 01",
-      "type": "vmess",
-      "server": "www.shopify.com",
-      "server_port": 80,
-      "uuid": "3171ac5c-d746-4298-82e0-d46f2f5aa51f",
-      "security": "auto",
-      "alter_id": 0,
-      "transport": {
-        "type": "ws",
-        "headers": {
-          "Host": "de.gfw.hidns.co"
-        },
-        "path": "/danfeng"
-      }
-    },
-    {
-      "tag": "🇩🇪 机场推荐:dafei.de 德国 02",
+      "tag": "🇭🇰 机场推荐:dafei.de 香港 04",
       "type": "hysteria2",
-      "server": "fr1.shiyuandian.shop",
-      "server_port": 1935,
-      "password": "ae845cbd-08fb-4346-929a-e28a6f3960a8",
+      "server": "hkaws.ccwink.photos",
+      "server_port": 88,
+      "password": "9e0f72bb-7ad6-4383-994a-497569a94d74",
       "tls": {
         "enabled": true,
-        "server_name": "fr1.shiyuandian.shop",
+        "server_name": "hkak.ccwink.cc",
         "insecure": true
       }
     },
     {
-      "tag": "🇩🇪 机场推荐:dafei.de 德国 03",
-      "type": "trojan",
-      "server": "147.182.249.110",
+      "tag": "🇭🇰 机场推荐:dafei.de 香港 05",
+      "type": "http",
+      "server": "47b091d2-teisg0-txfm0f-1qxa1.cm4.oshuawei.com",
+      "server_port": 5228,
+      "tls": {
+        "enabled": true,
+        "server_name": "47b091d2-teisg0-txfm0f-1qxa1.cm4.oshuawei.com",
+        "insecure": false
+      },
+      "username": "f609abb4-ed17-11ee-9fa2-f23c9164ca5d",
+      "password": "f609abb4-ed17-11ee-9fa2-f23c9164ca5d"
+    },
+    {
+      "tag": "🇭🇰 机场推荐:dafei.de 香港 06",
+      "type": "http",
+      "server": "99df27df-temhs0-tfjz9x-1t5n1.hkt.cdnhuawei.com",
+      "server_port": 8443,
+      "tls": {
+        "enabled": true,
+        "server_name": "99df27df-temhs0-tfjz9x-1t5n1.hkt.cdnhuawei.com",
+        "insecure": false
+      },
+      "username": "ea800f9e-ca6c-11ef-8e74-f23c913c8d2b",
+      "password": "ea800f9e-ca6c-11ef-8e74-f23c913c8d2b"
+    },
+    {
+      "tag": "🇮🇳 机场推荐:dafei.de 印度 01",
+      "type": "anytls",
+      "server": "oxhyim.yytls.top",
+      "server_port": 27022,
+      "password": "2219a1b1-9290-4ac5-94fd-6cfc1fb25280",
+      "tls": {
+        "enabled": true,
+        "server_name": "oxhyim.yytls.top",
+        "insecure": false,
+        "alpn": [
+          "h2",
+          "http/1.1"
+        ],
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "tag": "🇰🇭 机场推荐:dafei.de 柬埔寨 01",
+      "type": "anytls",
+      "server": "jczqdd.yytls.top",
+      "server_port": 27027,
+      "password": "2219a1b1-9290-4ac5-94fd-6cfc1fb25280",
+      "tls": {
+        "enabled": true,
+        "server_name": "jczqdd.yytls.top",
+        "insecure": false,
+        "alpn": [
+          "h2",
+          "http/1.1"
+        ],
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "tag": "🇱🇦 机场推荐:dafei.de 老挝 01",
+      "type": "anytls",
+      "server": "ydnodh.yytls.top",
+      "server_port": 27028,
+      "password": "2219a1b1-9290-4ac5-94fd-6cfc1fb25280",
+      "tls": {
+        "enabled": true,
+        "server_name": "ydnodh.yytls.top",
+        "insecure": false,
+        "alpn": [
+          "h2",
+          "http/1.1"
+        ],
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "tag": "🇫🇷 机场推荐:dafei.de 法国 01",
+      "type": "http",
+      "server": "99d02245-tekn40-tqruo0-1pqhp.fr.oshuawei.com",
       "server_port": 443,
-      "password": "8r<[9'l6hAO#8ZQi",
       "tls": {
         "enabled": true,
-        "server_name": "Koma-YT.PAGeS.Dev",
-        "insecure": true,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
+        "server_name": "99d02245-tekn40-tqruo0-1pqhp.fr.oshuawei.com",
+        "insecure": false
       },
-      "transport": {
-        "type": "ws",
-        "headers": {
-          "Host": "Koma-YT.PAGeS.Dev"
-        },
-        "path": "/trTelegram🇨🇳 @WangCai2"
-      }
+      "username": "b02327ac-a49a-11ef-a673-f23c913c8d2b",
+      "password": "b02327ac-a49a-11ef-a673-f23c913c8d2b"
     },
     {
-      "tag": "🇯🇵 机场推荐:dafei.de 日本 01",
-      "type": "vless",
-      "server": "jp2-r.link-t7.com",
-      "server_port": 10032,
-      "uuid": "EF3507AC-123A-4A39-9B4C-7D9BD69F8913",
+      "tag": "🇬🇧 机场推荐:dafei.de 英国 01",
+      "type": "http",
+      "server": "f0a2de13-tegxs0-tqx9ef-1k0yf.uk.oshuawei.com",
+      "server_port": 443,
       "tls": {
         "enabled": true,
-        "server_name": "s0.awsstatic.com",
-        "insecure": false,
-        "reality": {
-          "enabled": true,
-          "public_key": "wOu-BMrXvk9KX23JZrlpUlF4SMjDcejm0vNECdhy5xE",
-          "short_id": "686c0ef0"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
+        "server_name": "f0a2de13-tegxs0-tqx9ef-1k0yf.uk.oshuawei.com",
+        "insecure": false
       },
-      "flow": "",
-      "transport": {
-        "type": "grpc",
-        "service_name": "update"
-      }
+      "username": "9cc3c03e-21fd-11ee-a642-f23c91369f2d",
+      "password": "9cc3c03e-21fd-11ee-a642-f23c91369f2d"
     },
     {
-      "tag": "🇯🇵 机场推荐:dafei.de 日本 02",
+      "tag": "🇱🇻 机场推荐:dafei.de 拉脱维亚 01",
       "type": "vless",
-      "server": "jp1-r.link-t7.com",
-      "server_port": 10031,
-      "uuid": "EF3507AC-123A-4A39-9B4C-7D9BD69F8913",
-      "tls": {
-        "enabled": true,
-        "server_name": "s0.awsstatic.com",
-        "insecure": false,
-        "reality": {
-          "enabled": true,
-          "public_key": "wOu-BMrXvk9KX23JZrlpUlF4SMjDcejm0vNECdhy5xE",
-          "short_id": "686c0ef0"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "grpc",
-        "service_name": "update"
-      }
-    },
-    {
-      "tag": "🇯🇵 机场推荐:dafei.de 日本 03",
-      "type": "vless",
-      "server": "74.82.199.200",
-      "server_port": 10344,
+      "server": "23.173.104.233",
+      "server_port": 2053,
       "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
       "tls": {
         "enabled": true,
@@ -1182,212 +1441,219 @@
       }
     },
     {
-      "tag": "🇯🇵 机场推荐:dafei.de 日本 04",
-      "type": "http",
-      "server": "dc0ba6e3-tekn40-tg103o-64gc.tkydc3.cdnbytescm.com",
-      "server_port": 3443,
+      "tag": "🇱🇻 机场推荐:dafei.de 拉脱维亚 02",
+      "type": "vless",
+      "server": "91.193.58.73",
+      "server_port": 443,
+      "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
       "tls": {
         "enabled": true,
-        "server_name": "dc0ba6e3-tekn40-tg103o-64gc.tkydc3.cdnbytescm.com",
-        "insecure": false
+        "server_name": "sni.111000.v6.rocks",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
       },
-      "username": "d720a490-d56b-11ef-a1cb-f23c9313b177",
-      "password": "d720a490-d56b-11ef-a1cb-f23c9313b177"
-    },
-    {
-      "tag": "🇺🇸 机场推荐:dafei.de 美国 01",
-      "type": "anytls",
-      "server": "338854c4-teisg0-tf681f-1j6h0.sj.oshuawei.com",
-      "server_port": 8443,
-      "password": "dcccacba-fa44-11ef-8400-f23c9164ca5d",
-      "tls": {
-        "enabled": true,
-        "server_name": "338854c4-teisg0-tf681f-1j6h0.sj.oshuawei.com",
-        "insecure": true
+      "transport": {
+        "type": "ws",
+        "headers": {
+          "Host": "sni.111000.v6.rocks"
+        },
+        "path": "/"
       }
     },
     {
-      "tag": "🇺🇸 机场推荐:dafei.de 美国 02",
-      "type": "http",
-      "server": "9974bdcb-tekn40-twjnjx-1q9g2.u12.oshuawei.com",
+      "tag": "🇱🇻 机场推荐:dafei.de 拉脱维亚 03",
+      "type": "vless",
+      "server": "62.60.151.202",
       "server_port": 443,
+      "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
       "tls": {
         "enabled": true,
-        "server_name": "9974bdcb-tekn40-twjnjx-1q9g2.u12.oshuawei.com",
-        "insecure": false
+        "server_name": "sni.111000.v6.rocks",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
       },
-      "username": "9d80dd14-ac44-11ee-a116-f23c9164ca5d",
-      "password": "9d80dd14-ac44-11ee-a116-f23c9164ca5d"
-    },
-    {
-      "tag": "🇺🇸 机场推荐:dafei.de 美国 03",
-      "type": "anytls",
-      "server": "8c7074e3-teisg0-tey9ea-jjv2.los.hyhuawei.com",
-      "server_port": 443,
-      "password": "31676725-b0fd-fed2-c857-2da8ce5a6e4f",
-      "tls": {
-        "enabled": true,
-        "server_name": "8c7074e3-teisg0-tey9ea-jjv2.los.hyhuawei.com",
-        "insecure": true
+      "transport": {
+        "type": "ws",
+        "headers": {
+          "Host": "sni.111000.v6.rocks"
+        },
+        "path": "/?https://t.me/WangCai2🇨🇳"
       }
     },
     {
-      "tag": "🇺🇸 机场推荐:dafei.de 美国 04",
-      "type": "http",
-      "server": "7bd2f7ac-tekn40-thvc3p-1o4kv.sj.hyhuawei.com",
-      "server_port": 443,
+      "tag": "🇱🇻 机场推荐:dafei.de 拉脱维亚 04",
+      "type": "vless",
+      "server": "23.173.104.213",
+      "server_port": 2053,
+      "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
       "tls": {
         "enabled": true,
-        "server_name": "7bd2f7ac-tekn40-thvc3p-1o4kv.sj.hyhuawei.com",
-        "insecure": false
+        "server_name": "sni.111000.v6.rocks",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
       },
-      "username": "87b31a02-172e-11ee-a11f-f23c913c8d2b",
-      "password": "87b31a02-172e-11ee-a11f-f23c913c8d2b"
-    },
-    {
-      "tag": "🇺🇸 机场推荐:dafei.de 美国 05",
-      "type": "http",
-      "server": "56e463d9-tekn40-trg4wh-z65w.isp.cdnkuaishou.com",
-      "server_port": 8443,
-      "tls": {
-        "enabled": true,
-        "server_name": "56e463d9-tekn40-trg4wh-z65w.isp.cdnkuaishou.com",
-        "insecure": false
-      },
-      "username": "a2313fba-74a6-11ed-a8bf-f23c91cfbbc9",
-      "password": "a2313fba-74a6-11ed-a8bf-f23c91cfbbc9"
-    },
-    {
-      "tag": "🇺🇸 机场推荐:dafei.de 美国 06",
-      "type": "http",
-      "server": "b1913914-tekn40-tnfe2z-1s4hc.se.oshuawei.com",
-      "server_port": 443,
-      "tls": {
-        "enabled": true,
-        "server_name": "b1913914-tekn40-tnfe2z-1s4hc.se.oshuawei.com",
-        "insecure": false
-      },
-      "username": "aafedc64-9c23-11ef-a79f-f23c91cfbbc9",
-      "password": "aafedc64-9c23-11ef-a79f-f23c91cfbbc9"
-    },
-    {
-      "tag": "🇺🇸 机场推荐:dafei.de 美国 07",
-      "type": "anytls",
-      "server": "8f2e81a5-tegxs0-tpftcp-13x18.se.hyhuawei.com",
-      "server_port": 443,
-      "password": "e4499a62-0cfe-11eb-ad8c-f23c9164ca5d",
-      "tls": {
-        "enabled": true,
-        "server_name": "8f2e81a5-tegxs0-tpftcp-13x18.se.hyhuawei.com",
-        "insecure": true
+      "transport": {
+        "type": "ws",
+        "headers": {
+          "Host": "sni.111000.v6.rocks"
+        },
+        "early_data_header_name": "Sec-WebSocket-Protocol",
+        "max_early_data": 2560,
+        "path": "/"
       }
     },
     {
-      "tag": "🇺🇸 机场推荐:dafei.de 美国 08",
-      "type": "http",
-      "server": "33437d31-tegxs0-tf5zuq-fa3p.cu.oshuawei.com",
-      "server_port": 15229,
+      "tag": "🇱🇻 机场推荐:dafei.de 拉脱维亚 05",
+      "type": "vless",
+      "server": "23.173.104.235",
+      "server_port": 2053,
+      "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
       "tls": {
         "enabled": true,
-        "server_name": "33437d31-tegxs0-tf5zuq-fa3p.cu.oshuawei.com",
-        "insecure": false
+        "server_name": "sni.111000.v6.rocks",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
       },
-      "username": "905fcd78-866c-81e1-3cb8-1beb59d661ab",
-      "password": "905fcd78-866c-81e1-3cb8-1beb59d661ab"
-    },
-    {
-      "tag": "🇺🇸 机场推荐:dafei.de 美国 09",
-      "type": "vmess",
-      "server": "v4.hdacd.com",
-      "server_port": 30804,
-      "uuid": "cbb3f877-d1fb-344c-87a9-d153bffd5484",
-      "security": "auto",
-      "alter_id": 2
-    },
-    {
-      "tag": "🇮🇩 机场推荐:dafei.de 印尼 01",
-      "type": "http",
-      "server": "b04a338d-tegxs0-tvvhcz-tl32.id.oshuawei.com",
-      "server_port": 32233,
-      "tls": {
-        "enabled": true,
-        "server_name": "b04a338d-tegxs0-tvvhcz-tl32.id.oshuawei.com",
-        "insecure": false
-      },
-      "username": "5c02ab88-7b9c-11ea-8fc9-f23c913c8d2b",
-      "password": "5c02ab88-7b9c-11ea-8fc9-f23c913c8d2b"
-    },
-    {
-      "tag": "🇫🇷 机场推荐:dafei.de 法国 01",
-      "type": "http",
-      "server": "61426983-tekn40-tl09la-1q91p.fr.oshuawei.com",
-      "server_port": 443,
-      "tls": {
-        "enabled": true,
-        "server_name": "61426983-tekn40-tl09la-1q91p.fr.oshuawei.com",
-        "insecure": false
-      },
-      "username": "c11ff50c-f582-11ee-94df-f23c9164ca5d",
-      "password": "c11ff50c-f582-11ee-94df-f23c9164ca5d"
-    },
-    {
-      "tag": "🇫🇷 机场推荐:dafei.de 法国 02",
-      "type": "hysteria2",
-      "server": "163.172.113.118",
-      "server_port": 41283,
-      "password": "dongtaiwang.com",
-      "tls": {
-        "enabled": true,
-        "server_name": "www.microsoft.com",
-        "insecure": true
+      "transport": {
+        "type": "ws",
+        "headers": {
+          "Host": "sni.111000.v6.rocks"
+        },
+        "path": "/?ed"
       }
     },
     {
-      "tag": "🇰🇷 机场推荐:dafei.de 韩国 01",
-      "type": "http",
-      "server": "8f1d713f-tekn40-tuklme-ueq.kr.oshuawei.com",
-      "server_port": 31433,
+      "tag": "🇩🇪 机场推荐:dafei.de 德国 01",
+      "type": "vless",
+      "server": "148.253.208.98",
+      "server_port": 20222,
+      "uuid": "faed8940-ce1a-4613-a05b-65d833e3346b",
       "tls": {
         "enabled": true,
-        "server_name": "8f1d713f-tekn40-tuklme-ueq.kr.oshuawei.com",
-        "insecure": false
-      },
-      "username": "91df5a86-fcdd-11ef-94aa-f23c913c8d2b",
-      "password": "91df5a86-fcdd-11ef-94aa-f23c913c8d2b"
+        "server_name": "stats.vk-portal.net",
+        "insecure": false,
+        "reality": {
+          "enabled": true,
+          "public_key": "USzu7jEsyeyLjhJ_w8Wm76bd6bSXy8TciAojicQKAHk",
+          "short_id": "48e9a51281c1"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
     },
     {
-      "tag": "🇲🇾 机场推荐:dafei.de 马来 01",
-      "type": "http",
-      "server": "927708af-tegxs0-tm23vf-1jk6u.my.oshuawei.com",
-      "server_port": 31233,
+      "tag": "🇩🇪 机场推荐:dafei.de 德国 02",
+      "type": "vless",
+      "server": "172.67.77.141",
+      "server_port": 443,
+      "uuid": "df862b4c-2150-4b36-81ac-405036cf9ff6",
       "tls": {
         "enabled": true,
-        "server_name": "927708af-tegxs0-tm23vf-1jk6u.my.oshuawei.com",
-        "insecure": false
+        "server_name": "kalami-eew.pages.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
       },
-      "username": "45bc25b2-1a10-11ed-91c0-f23c91cfbbc9",
-      "password": "45bc25b2-1a10-11ed-91c0-f23c91cfbbc9"
+      "transport": {
+        "type": "ws",
+        "headers": {
+          "Host": "kalami-eew.pages.dev"
+        },
+        "path": "/"
+      }
+    },
+    {
+      "tag": "🇳🇱 机场推荐:dafei.de 荷兰 01",
+      "type": "trojan",
+      "server": "172.67.180.92",
+      "server_port": 443,
+      "password": "humanity",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.multiplydose.com",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "headers": {
+          "Host": "www.multiplydose.com"
+        },
+        "path": "/assignment"
+      }
+    },
+    {
+      "tag": "🇨🇾 机场推荐:dafei.de 塞浦路斯 01",
+      "type": "tuic",
+      "server": "45.149.114.75",
+      "server_port": 50043,
+      "uuid": "e033ef6e-ab4b-47d4-a523-ff568d2c8dbb",
+      "password": "strong-secret-pass-777",
+      "tls": {
+        "enabled": true,
+        "server_name": "45.149.114.75",
+        "insecure": true,
+        "alpn": [
+          "h3"
+        ]
+      },
+      "congestion_control": "bbr"
+    },
+    {
+      "tag": "🇨🇾 机场推荐:dafei.de 塞浦路斯 02",
+      "type": "trojan",
+      "server": "45.15.140.128",
+      "server_port": 4443,
+      "password": "strong-secret-pass-777",
+      "tls": {
+        "enabled": true,
+        "server_name": "45.15.140.128",
+        "insecure": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
     },
     {
       "tag": "🇻🇳 机场推荐:dafei.de 越南 01",
       "type": "shadowsocks",
-      "server": "103.186.155.31",
+      "server": "103.186.154.51",
       "server_port": 38388,
       "method": "aes-256-cfb",
       "password": "Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV"
     },
     {
-      "tag": "🇬🇧 机场推荐:dafei.de 英国 01",
+      "tag": "🇲🇾 机场推荐:dafei.de 马来 01",
       "type": "http",
-      "server": "dcf884e7-teisg0-tighxj-12hj8.uk.oshuawei.com",
-      "server_port": 443,
+      "server": "4142efbd-tekn40-thvc3p-1o4kv.my.oshuawei.com",
+      "server_port": 31233,
       "tls": {
         "enabled": true,
-        "server_name": "dcf884e7-teisg0-tighxj-12hj8.uk.oshuawei.com",
+        "server_name": "4142efbd-tekn40-thvc3p-1o4kv.my.oshuawei.com",
         "insecure": false
       },
-      "username": "5acc7a7c-d7ea-11eb-8673-f23c9164ca5d",
-      "password": "5acc7a7c-d7ea-11eb-8673-f23c9164ca5d"
+      "username": "87b31a02-172e-11ee-a11f-f23c913c8d2b",
+      "password": "87b31a02-172e-11ee-a11f-f23c913c8d2b"
     }
   ],
   "inbounds": [
